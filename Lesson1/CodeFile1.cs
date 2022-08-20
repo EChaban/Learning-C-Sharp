@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
+
 class Form
 {
     static void Main()
