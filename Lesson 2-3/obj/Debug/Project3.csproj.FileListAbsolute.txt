@@ -6,3 +6,11 @@ E:\Programming\Google Drive\Lessons\Lesson3\Project3\obj\Debug\Project3.csproj.S
 E:\Programming\Google Drive\Lessons\Lesson3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
 E:\Programming\Google Drive\Lessons\Lesson3\Project3\obj\Debug\Project3.exe
 E:\Programming\Google Drive\Lessons\Lesson3\Project3\obj\Debug\Project3.pdb
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\bin\Debug\Project3.exe.config
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\bin\Debug\Project3.exe
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\bin\Debug\Project3.pdb
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\obj\Debug\Project3.csproj.AssemblyReference.cache
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\obj\Debug\Project3.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\obj\Debug\Project3.exe
+E:\Programming\Google Drive\github desktop\Learning-C-Sharp\Lesson 2-3\obj\Debug\Project3.pdb

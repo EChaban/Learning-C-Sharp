@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Security.Policy;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
-using static System.Net.Mime.MediaTypeNames;
 
-class Name
+class Numbers
 {
     static void Main()
     {
