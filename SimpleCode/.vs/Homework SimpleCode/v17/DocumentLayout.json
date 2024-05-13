@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\SimpleCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EECBB4A1-265C-45A0-95E7-37643A04E1B1}|Homework I4\\Homework I4.csproj|c:\\users\\eugene\\\u043C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\learning-c-sharp\\simplecode\\homework i4\\homework i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECBB4A1-265C-45A0-95E7-37643A04E1B1}|Homework I4\\Homework I4.csproj|solutionrelative:homework i4\\homework i4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6403021B-B9DB-4145-8862-A42199BAEE05}|Homework 6-9\\Homework 6-9.csproj|c:\\users\\eugene\\\u043C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\learning-c-sharp\\simplecode\\homework 6-9\\homework 6-9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6403021B-B9DB-4145-8862-A42199BAEE05}|Homework 6-9\\Homework 6-9.csproj|solutionrelative:homework 6-9\\homework 6-9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABDCE3F5-0CD0-4561-9F65-DB593B64B1A4}|Homework I5\\Homework I5.csproj|c:\\users\\eugene\\\u043C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\learning-c-sharp\\simplecode\\homework i5\\homework i5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABDCE3F5-0CD0-4561-9F65-DB593B64B1A4}|Homework I5\\Homework I5.csproj|solutionrelative:homework i5\\homework i5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Homework I4.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\SimpleCode\\Homework I4\\Homework I4.cs",
+              "RelativeDocumentMoniker": "Homework I4\\Homework I4.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\SimpleCode\\Homework I4\\Homework I4.cs",
+              "RelativeToolTip": "Homework I4\\Homework I4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:31:33.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homework 6-9.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\SimpleCode\\Homework 6-9\\Homework 6-9.cs",
+              "RelativeDocumentMoniker": "Homework 6-9\\Homework 6-9.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\SimpleCode\\Homework 6-9\\Homework 6-9.cs",
+              "RelativeToolTip": "Homework 6-9\\Homework 6-9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:31:05.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Homework I5.cs",
               "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\SimpleCode\\Homework I5\\Homework I5.cs",
               "RelativeDocumentMoniker": "Homework I5\\Homework I5.cs",
