@@ -1,0 +1,7 @@
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I4\bin\Debug\Homework I4.exe.config
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I4\bin\Debug\Homework I4.exe
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I4\bin\Debug\Homework I4.pdb
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I4\obj\Debug\Homework I4.csproj.AssemblyReference.cache
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I4\obj\Debug\Homework I4.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I4\obj\Debug\Homework I4.exe
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I4\obj\Debug\Homework I4.pdb

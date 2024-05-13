@@ -1,0 +1,7 @@
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Test\bin\Debug\Test.exe.config
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Test\bin\Debug\Test.exe
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Test\bin\Debug\Test.pdb
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Test\obj\Debug\Test.exe
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Test\obj\Debug\Test.pdb

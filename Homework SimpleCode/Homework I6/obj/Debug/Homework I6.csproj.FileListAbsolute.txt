@@ -1,0 +1,15 @@
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\bin\Debug\Homework I6.exe.config
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\bin\Debug\Homework I6.exe
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\bin\Debug\Homework I6.pdb
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.csproj.AssemblyReference.cache
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.csproj.CoreCompileInputs.cache
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.exe
+C:\Program Files\Google\My Drive\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.pdb
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I6\bin\Debug\Homework I6.exe.config
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I6\bin\Debug\Homework I6.exe
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I6\bin\Debug\Homework I6.pdb
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.csproj.AssemblyReference.cache
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.exe
+C:\Users\Eugene\Мой диск\Learning C-Sharp\Homework SimpleCode\Homework I6\obj\Debug\Homework I6.pdb
