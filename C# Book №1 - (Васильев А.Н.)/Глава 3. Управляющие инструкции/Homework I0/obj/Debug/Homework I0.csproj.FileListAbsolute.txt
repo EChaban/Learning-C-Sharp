@@ -1,0 +1,7 @@
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework I0\bin\Debug\Homework I0.exe.config
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework I0\bin\Debug\Homework I0.exe
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework I0\bin\Debug\Homework I0.pdb
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework I0\obj\Debug\Homework I0.csproj.AssemblyReference.cache
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework I0\obj\Debug\Homework I0.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework I0\obj\Debug\Homework I0.exe
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework I0\obj\Debug\Homework I0.pdb

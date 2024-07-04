@@ -1,0 +1,7 @@
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework 7\bin\Debug\Homework 7.exe.config
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework 7\bin\Debug\Homework 7.exe
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework 7\bin\Debug\Homework 7.pdb
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework 7\obj\Debug\Homework 7.csproj.AssemblyReference.cache
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework 7\obj\Debug\Homework 7.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework 7\obj\Debug\Homework 7.exe
+C:\Users\Eugene\Мой диск\github desktop\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Chapter 3\Homework 7\obj\Debug\Homework 7.pdb

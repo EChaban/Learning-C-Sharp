@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145FF3D3-C85C-40E4-94AC-E23EC04E185A}|Homework I0\\Homework I0.csproj|c:\\users\\eugene\\\u043C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\learning-c-sharp\\c# book \u21161 - (\u0432\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0430.\u043D.)\\chapter 3\\homework i0\\homework i0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145FF3D3-C85C-40E4-94AC-E23EC04E185A}|Homework I0\\Homework I0.csproj|solutionrelative:homework i0\\homework i0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBEA324-CE47-40EA-9E1D-AEEEC588E954}|Homework 8\\Homework 8.csproj|c:\\users\\eugene\\\u043C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\learning-c-sharp\\c# book \u21161 - (\u0432\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0430.\u043D.)\\chapter 3\\homework 8\\homework 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBEA324-CE47-40EA-9E1D-AEEEC588E954}|Homework 8\\Homework 8.csproj|solutionrelative:homework 8\\homework 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EEE996-AC51-4520-B4E8-606B262A8F7A}|Homework 9\\Homework 9.csproj|c:\\users\\eugene\\\u043C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\learning-c-sharp\\c# book \u21161 - (\u0432\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0430.\u043D.)\\chapter 3\\homework 9\\homework 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EEE996-AC51-4520-B4E8-606B262A8F7A}|Homework 9\\Homework 9.csproj|solutionrelative:homework 9\\homework 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A2F961-B8F2-4D85-B8FC-4F06BED0820F}|Homework 7\\Homework 7.csproj|C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\homework 7\\homework 7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A2F961-B8F2-4D85-B8FC-4F06BED0820F}|Homework 7\\Homework 7.csproj|solutionrelative:homework 7\\homework 7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A2BA320-9AA6-41D5-856A-60CBC83AAD58}|Homework 4\\Homework 4.csproj|C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\homework 4\\homework 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A2BA320-9AA6-41D5-856A-60CBC83AAD58}|Homework 4\\Homework 4.csproj|solutionrelative:homework 4\\homework 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D4A3B-12F4-42AE-BEB7-BE128308419F}|Homework 6\\Homework 6.csproj|C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\homework 6\\homework 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D4A3B-12F4-42AE-BEB7-BE128308419F}|Homework 6\\Homework 6.csproj|solutionrelative:homework 6\\homework 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BED66C4-24B8-49AB-AF5A-DAF3E7102291}|Homework 5.2\\Homework 5.2.csproj|C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\homework 5.2\\homework 5.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BED66C4-24B8-49AB-AF5A-DAF3E7102291}|Homework 5.2\\Homework 5.2.csproj|solutionrelative:homework 5.2\\homework 5.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68B7E41-3024-4D07-906A-18BAD8EAF1C8}|Homework 5.1\\Homework 5.1.csproj|C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\homework 5.1\\homework 5.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68B7E41-3024-4D07-906A-18BAD8EAF1C8}|Homework 5.1\\Homework 5.1.csproj|solutionrelative:homework 5.1\\homework 5.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6D0027-7B16-47E0-B474-9B3DBE7A0715}|Homework 3\\Homework 3.csproj|C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\homework 3\\homework 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6D0027-7B16-47E0-B474-9B3DBE7A0715}|Homework 3\\Homework 3.csproj|solutionrelative:homework 3\\homework 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework I0.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework I0\\Homework I0.cs",
+              "RelativeDocumentMoniker": "Homework I0\\Homework I0.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework I0\\Homework I0.cs",
+              "RelativeToolTip": "Homework I0\\Homework I0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:08:30.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homework 9.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 9\\Homework 9.cs",
+              "RelativeDocumentMoniker": "Homework 9\\Homework 9.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 9\\Homework 9.cs",
+              "RelativeToolTip": "Homework 9\\Homework 9.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:55:49.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homework 8.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 8\\Homework 8.cs",
+              "RelativeDocumentMoniker": "Homework 8\\Homework 8.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 8\\Homework 8.cs",
+              "RelativeToolTip": "Homework 8\\Homework 8.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:38:02.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homework 7.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 7\\Homework 7.cs",
+              "RelativeDocumentMoniker": "Homework 7\\Homework 7.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 7\\Homework 7.cs",
+              "RelativeToolTip": "Homework 7\\Homework 7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:23:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homework 6.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 6\\Homework 6.cs",
+              "RelativeDocumentMoniker": "Homework 6\\Homework 6.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 6\\Homework 6.cs",
+              "RelativeToolTip": "Homework 6\\Homework 6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:48:10.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Homework 5.2.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 5.2\\Homework 5.2.cs",
+              "RelativeDocumentMoniker": "Homework 5.2\\Homework 5.2.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 5.2\\Homework 5.2.cs",
+              "RelativeToolTip": "Homework 5.2\\Homework 5.2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:40:30.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homework 5.1.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 5.1\\Homework 5.1.cs",
+              "RelativeDocumentMoniker": "Homework 5.1\\Homework 5.1.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 5.1\\Homework 5.1.cs",
+              "RelativeToolTip": "Homework 5.1\\Homework 5.1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:30:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Homework 4.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 4\\Homework 4.cs",
+              "RelativeDocumentMoniker": "Homework 4\\Homework 4.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 4\\Homework 4.cs",
+              "RelativeToolTip": "Homework 4\\Homework 4.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:17:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Homework 3.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 3\\Homework 3.cs",
+              "RelativeDocumentMoniker": "Homework 3\\Homework 3.cs",
+              "ToolTip": "C:\\Users\\Eugene\\\u041C\u043E\u0439 \u0434\u0438\u0441\u043A\\github desktop\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\Chapter 3\\Homework 3\\Homework 3.cs",
+              "RelativeToolTip": "Homework 3\\Homework 3.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:35:09.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
