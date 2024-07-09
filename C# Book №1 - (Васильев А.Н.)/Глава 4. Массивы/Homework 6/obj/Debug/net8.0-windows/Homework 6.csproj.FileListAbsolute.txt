@@ -1,0 +1,17 @@
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework_6.Form1.resources
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.csproj.GenerateResource.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.AssemblyInfoInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.AssemblyInfo.cs
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.csproj.CoreCompileInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.sourcelink.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\bin\Debug\net8.0-windows\Homework 6.exe
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\bin\Debug\net8.0-windows\Homework 6.deps.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\bin\Debug\net8.0-windows\Homework 6.runtimeconfig.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\bin\Debug\net8.0-windows\Homework 6.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\bin\Debug\net8.0-windows\Homework 6.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\refint\Homework 6.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\Homework 6.genruntimeconfig.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 6\obj\Debug\net8.0-windows\ref\Homework 6.dll

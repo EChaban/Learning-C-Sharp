@@ -1,0 +1,15 @@
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\bin\Debug\net8.0\Homework 8.exe
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\bin\Debug\net8.0\Homework 8.deps.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\bin\Debug\net8.0\Homework 8.runtimeconfig.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\bin\Debug\net8.0\Homework 8.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\bin\Debug\net8.0\Homework 8.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.AssemblyInfoInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.AssemblyInfo.cs
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.csproj.CoreCompileInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.sourcelink.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\refint\Homework 8.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\Homework 8.genruntimeconfig.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 4. Массивы\Homework 8\obj\Debug\net8.0\ref\Homework 8.dll
