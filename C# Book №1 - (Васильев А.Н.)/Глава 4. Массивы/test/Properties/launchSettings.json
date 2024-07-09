@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "test": {
-      "commandName": "Project",
-      "commandLineArgs": "первый 123 А 3,141592 последний"
-    }
-  }
-}
