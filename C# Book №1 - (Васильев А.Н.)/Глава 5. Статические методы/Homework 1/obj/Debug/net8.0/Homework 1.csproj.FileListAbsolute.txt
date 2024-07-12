@@ -1,0 +1,15 @@
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.AssemblyInfoInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.AssemblyInfo.cs
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.csproj.CoreCompileInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.sourcelink.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\bin\Debug\net8.0\Homework 1.exe
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\bin\Debug\net8.0\Homework 1.deps.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\bin\Debug\net8.0\Homework 1.runtimeconfig.json
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\bin\Debug\net8.0\Homework 1.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\bin\Debug\net8.0\Homework 1.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\refint\Homework 1.dll
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\Homework 1.genruntimeconfig.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 1\obj\Debug\net8.0\ref\Homework 1.dll
