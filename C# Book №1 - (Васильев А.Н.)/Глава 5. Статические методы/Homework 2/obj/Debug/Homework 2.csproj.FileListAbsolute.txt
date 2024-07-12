@@ -1,0 +1,7 @@
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 2\bin\Debug\Homework 2.exe.config
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 2\bin\Debug\Homework 2.exe
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 2\bin\Debug\Homework 2.pdb
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 2\obj\Debug\Homework 2.csproj.AssemblyReference.cache
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 2\obj\Debug\Homework 2.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 2\obj\Debug\Homework 2.exe
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 5. Статические методы\Homework 2\obj\Debug\Homework 2.pdb

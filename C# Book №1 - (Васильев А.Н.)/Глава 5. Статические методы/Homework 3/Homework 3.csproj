@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{575186EA-B7D5-46B2-89EB-51BBF5E37C86}</ProjectGuid>
+    <ProjectGuid>{CFF1F92C-F57A-4D7B-9CED-38FD1C6BCEF8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Homework_1._1</RootNamespace>
-    <AssemblyName>Homework 1.1</AssemblyName>
+    <RootNamespace>Homework_3</RootNamespace>
+    <AssemblyName>Homework 3</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Homework 1.cs" />
+    <Compile Include="Homework 3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
