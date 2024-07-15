@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eugene Chaban\\source\\repos\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606AB17A-73C4-4AAB-B14D-B6D690A5AE4D}|Leet Code 2\\Leet Code 2.csproj|c:\\users\\eugene chaban\\source\\repos\\leetcode\\leet code 2\\leet code 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606AB17A-73C4-4AAB-B14D-B6D690A5AE4D}|Leet Code 2\\Leet Code 2.csproj|solutionrelative:leet code 2\\leet code 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFBDD1F-2B7A-4B1A-BC3A-3A6D145070C2}|LeetCode\\LeetCode.csproj|C:\\Users\\Eugene Chaban\\source\\repos\\LeetCode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFBDD1F-2B7A-4B1A-BC3A-3A6D145070C2}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leet Code 2.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene Chaban\\source\\repos\\LeetCode\\Leet Code 2\\Leet Code 2.cs",
+              "RelativeDocumentMoniker": "Leet Code 2\\Leet Code 2.cs",
+              "ToolTip": "C:\\Users\\Eugene Chaban\\source\\repos\\LeetCode\\Leet Code 2\\Leet Code 2.cs",
+              "RelativeToolTip": "Leet Code 2\\Leet Code 2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:01:41.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eugene Chaban\\source\\repos\\LeetCode\\LeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Program.cs",
+              "ToolTip": "C:\\Users\\Eugene Chaban\\source\\repos\\LeetCode\\LeetCode\\Program.cs",
+              "RelativeToolTip": "LeetCode\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:36:05.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
