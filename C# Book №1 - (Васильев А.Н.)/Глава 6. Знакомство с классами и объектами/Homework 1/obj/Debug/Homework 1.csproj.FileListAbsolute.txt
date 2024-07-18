@@ -1,2 +1,0 @@
-C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 1\obj\Debug\Homework 1.csproj.AssemblyReference.cache
-C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 1\obj\Debug\Homework 1.csproj.CoreCompileInputs.cache
