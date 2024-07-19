@@ -5,3 +5,10 @@ E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6
 E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\obj\Debug\Homework 5.csproj.CoreCompileInputs.cache
 E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\obj\Debug\Homework 5.exe
 E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\obj\Debug\Homework 5.pdb
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\bin\Debug\Homework 5.exe.config
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\bin\Debug\Homework 5.exe
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\bin\Debug\Homework 5.pdb
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\obj\Debug\Homework 5.csproj.AssemblyReference.cache
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\obj\Debug\Homework 5.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\obj\Debug\Homework 5.exe
+C:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 6. Знакомство с классами и объектами\Homework 5\obj\Debug\Homework 5.pdb
