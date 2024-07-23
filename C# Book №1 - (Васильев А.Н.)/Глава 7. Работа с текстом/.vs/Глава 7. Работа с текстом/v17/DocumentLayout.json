@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\\u0413\u043B\u0430\u0432\u0430 7. \u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u0442\u0435\u043A\u0441\u0442\u043E\u043C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B40B41-A3E8-49F1-8781-4003832E89E7}|Homework 1\\Homework 1.csproj|e:\\github\\learning-c-sharp\\c# book \u21161 - (\u0432\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0430.\u043D.)\\\u0433\u043B\u0430\u0432\u0430 7. \u0440\u0430\u0431\u043E\u0442\u0430 \u0441 \u0442\u0435\u043A\u0441\u0442\u043E\u043C\\homework 1\\homework 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B40B41-A3E8-49F1-8781-4003832E89E7}|Homework 1\\Homework 1.csproj|solutionrelative:homework 1\\homework 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework 1.cs",
+              "DocumentMoniker": "E:\\GitHub\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\\u0413\u043B\u0430\u0432\u0430 7. \u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u0442\u0435\u043A\u0441\u0442\u043E\u043C\\Homework 1\\Homework 1.cs",
+              "RelativeDocumentMoniker": "Homework 1\\Homework 1.cs",
+              "ToolTip": "E:\\GitHub\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\\u0413\u043B\u0430\u0432\u0430 7. \u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u0442\u0435\u043A\u0441\u0442\u043E\u043C\\Homework 1\\Homework 1.cs",
+              "RelativeToolTip": "Homework 1\\Homework 1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:21:43.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
