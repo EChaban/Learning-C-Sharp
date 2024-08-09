@@ -1,4 +1,7 @@
-﻿/**/
+﻿/*Напишите программу, в которой есть статический метод. Аргументом
+методу передается текстовое значение. Результатом метод возвращает
+текст, в котором, по сравнению с текстом-аргументом, между символами
+вставлены пробелы.*/
 
 using System;
 using System.Collections.Generic;
@@ -11,16 +14,20 @@ namespace Homework_1
 {
     internal class Program
     {
+        static string NewText(string text)
+        {
+            string newText = "";
+            for (int i = 0; i < text.Length - 1; i++)
+            {
+                newText += (text[i] + " ");
+            }
+            return newText;
+        }
+
         static void Main(string[] args)
         {
-            string a = "text";
-            string b = "Text";
-            
-            Console.WriteLine(a.Equals(b, StringComparison.OrdinalIgnoreCase));
-            Console.WriteLine(String.Equals(a, b, StringComparison.OrdinalIgnoreCase));
-            Console.WriteLine(a.ToLower() == b.ToLower());
-
-
+            string text = "Hello!";
+            Console.WriteLine(NewText(text));
         }
     }
 }
