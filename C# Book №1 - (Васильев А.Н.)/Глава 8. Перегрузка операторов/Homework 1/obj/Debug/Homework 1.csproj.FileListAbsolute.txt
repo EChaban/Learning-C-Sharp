@@ -1,0 +1,7 @@
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 8. Перегрузка операторов\Homework 1\bin\Debug\Homework 1.exe.config
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 8. Перегрузка операторов\Homework 1\bin\Debug\Homework 1.exe
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 8. Перегрузка операторов\Homework 1\bin\Debug\Homework 1.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 8. Перегрузка операторов\Homework 1\obj\Debug\Homework 1.csproj.AssemblyReference.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 8. Перегрузка операторов\Homework 1\obj\Debug\Homework 1.csproj.CoreCompileInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 8. Перегрузка операторов\Homework 1\obj\Debug\Homework 1.exe
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава 8. Перегрузка операторов\Homework 1\obj\Debug\Homework 1.pdb
