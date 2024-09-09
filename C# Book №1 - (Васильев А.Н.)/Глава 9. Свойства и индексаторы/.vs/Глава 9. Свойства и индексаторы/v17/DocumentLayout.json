@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{B737CEA3-1E60-47BE-960C-6B8EF46621B8}|Homework 6\\Homework 6.csproj|solutionrelative:homework 6\\homework 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43258BFB-3632-4ED3-AC55-369B54F2FAAF}|Homework 9\\Homework 9.csproj|e:\\github\\learning-c-sharp\\c# book \u21161 - (\u0432\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0430.\u043D.)\\\u0433\u043B\u0430\u0432\u0430 9. \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u0430 \u0438 \u0438\u043D\u0434\u0435\u043A\u0441\u0430\u0442\u043E\u0440\u044B\\homework 9\\homework 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43258BFB-3632-4ED3-AC55-369B54F2FAAF}|Homework 9\\Homework 9.csproj|E:\\GitHub\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\\u0413\u043B\u0430\u0432\u0430 9. \u0421\u0432\u043E\u0439\u0441\u0442\u0432\u0430 \u0438 \u0438\u043D\u0434\u0435\u043A\u0441\u0430\u0442\u043E\u0440\u044B\\homework 9\\homework 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43258BFB-3632-4ED3-AC55-369B54F2FAAF}|Homework 9\\Homework 9.csproj|solutionrelative:homework 9\\homework 9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DDAB388-B371-4D08-ADC1-0B904765E8EB}|Homework 8\\Homework 8.csproj|e:\\github\\learning-c-sharp\\c# book \u21161 - (\u0432\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0430.\u043D.)\\\u0433\u043B\u0430\u0432\u0430 9. \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u0430 \u0438 \u0438\u043D\u0434\u0435\u043A\u0441\u0430\u0442\u043E\u0440\u044B\\homework 8\\homework 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DDAB388-B371-4D08-ADC1-0B904765E8EB}|Homework 8\\Homework 8.csproj|E:\\GitHub\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\\u0413\u043B\u0430\u0432\u0430 9. \u0421\u0432\u043E\u0439\u0441\u0442\u0432\u0430 \u0438 \u0438\u043D\u0434\u0435\u043A\u0441\u0430\u0442\u043E\u0440\u044B\\homework 8\\homework 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DDAB388-B371-4D08-ADC1-0B904765E8EB}|Homework 8\\Homework 8.csproj|solutionrelative:homework 8\\homework 8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Homework I0\\Homework I0.cs",
               "ToolTip": "E:\\GitHub\\Learning-C-Sharp\\C# Book \u21161 - (\u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432 \u0410.\u041D.)\\\u0413\u043B\u0430\u0432\u0430 9. \u0421\u0432\u043E\u0439\u0441\u0442\u0432\u0430 \u0438 \u0438\u043D\u0434\u0435\u043A\u0441\u0430\u0442\u043E\u0440\u044B\\Homework I0\\Homework I0.cs",
               "RelativeToolTip": "Homework I0\\Homework I0.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwD4AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T16:24:32.608Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Homework 9\\Homework 9.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAA0wFoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T11:51:06.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T11:51:06.505Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Homework 8\\Homework 8.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAiwDYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T09:05:55.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T09:05:55.815Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Homework 6\\Homework 6.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAAADcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T06:59:57.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T06:59:57.795Z"
             },
             {
               "$type": "Document",

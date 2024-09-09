@@ -7,9 +7,6 @@
 символ в тексте). Предусмотрите циклическую перестановку индексов
 в случае, если они выходят за верхнюю допустимую границу.*/
 
-/*string tmp = words[i];
-return tmp[j % tmp.Length];*/
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
