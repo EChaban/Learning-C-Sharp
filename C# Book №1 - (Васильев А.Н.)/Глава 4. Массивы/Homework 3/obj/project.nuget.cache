@@ -1,12 +1,8 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
   "dgSpecHash": "PJm/hXmrXIk=",
-=======
-  "dgSpecHash": "tlJdE+++kJ4=",
->>>>>>> Stashed changes
   "success": true,
-  "projectFilePath": "C:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 3\\Homework 3.csproj",
+  "projectFilePath": "E:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 3\\Homework 3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
