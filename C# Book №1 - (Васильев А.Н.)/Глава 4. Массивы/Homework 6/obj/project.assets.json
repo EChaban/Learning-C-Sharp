@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Eugene\\.nuget\\packages\\": {}
+    "C:\\Users\\Eugene Chaban\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 6\\Homework 6.csproj",
+      "projectUniqueName": "C:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 6\\Homework 6.csproj",
       "projectName": "Homework 6",
-      "projectPath": "E:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 6\\Homework 6.csproj",
-      "packagesPath": "C:\\Users\\Eugene\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 6\\obj\\",
+      "projectPath": "C:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 6\\Homework 6.csproj",
+      "packagesPath": "C:\\Users\\Eugene Chaban\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\Learning-C-Sharp\\C# Book №1 - (Васильев А.Н.)\\Глава 4. Массивы\\Homework 6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eugene\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eugene Chaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

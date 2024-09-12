@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29B40B41-A3E8-49F1-8781-4003832E89E7}</ProjectGuid>
+    <ProjectGuid>{4DECC1A8-C75E-4365-A262-749AD7FE951F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Homework_1</RootNamespace>
     <AssemblyName>Homework 1</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Homework 1.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
