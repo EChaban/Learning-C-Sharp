@@ -22,8 +22,7 @@ namespace Homework_1
         }
 
         public override string ToString(){
-            Console.Write("MyBaseClass ");
-            return text;
+            return $"MyBaseClass: {text}";
         }
     }
 
@@ -31,9 +30,9 @@ namespace Homework_1
     {
         protected string secondText;
 
-        public InheritClass(string text) : base (text)
+        public InheritClass(string text) : base (text) 
         {
-            this.secondText = text;
+            this.secondText = string.Empty;
         }
 
         public InheritClass(string text, string secondText) : base(text)
@@ -43,8 +42,7 @@ namespace Homework_1
 
         public override string ToString()
         {
-            Console.Write($"InheritClass {text} ");
-            return secondText;
+            return $"InheritClass: {text}, {secondText}";
         }
     }
     internal class Program

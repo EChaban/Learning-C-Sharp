@@ -43,13 +43,12 @@ namespace Homework_4
 
         public void Setter(int num, char symb)
         {
-            this.num = num;
+            base.Setter(num);
             this.symb = symb;
         }
 
         public SecondInherit(int num, char symb) : base (num)
         {
-            this.num = num;
             this.symb = symb;
         }
 
@@ -65,15 +64,12 @@ namespace Homework_4
 
         public void Setter(int num, char symb, string text)
         {
-            this.num = num;
-            this.symb = symb;
+            base.Setter(num, symb);
             this.text = text;
         }
 
         public ThirdInherit(int num, char symb, string text) : base (num, symb)
         {
-            this.num = num;
-            this.symb = symb;
             this.text = text;
         }
 
@@ -95,8 +91,6 @@ namespace Homework_4
             Console.WriteLine(c + "\n");
 
             c.Setter(54321, 'd', "New Text");
-
-            Console.WriteLine();
 
             Console.WriteLine(c + "\n");
         }

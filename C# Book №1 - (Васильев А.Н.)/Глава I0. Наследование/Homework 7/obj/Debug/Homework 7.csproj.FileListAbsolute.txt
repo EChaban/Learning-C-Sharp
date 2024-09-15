@@ -1,0 +1,7 @@
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава I0. Наследование\Homework 7\bin\Debug\Homework 7.exe.config
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава I0. Наследование\Homework 7\bin\Debug\Homework 7.exe
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава I0. Наследование\Homework 7\bin\Debug\Homework 7.pdb
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава I0. Наследование\Homework 7\obj\Debug\Homework 7.csproj.AssemblyReference.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава I0. Наследование\Homework 7\obj\Debug\Homework 7.csproj.CoreCompileInputs.cache
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава I0. Наследование\Homework 7\obj\Debug\Homework 7.exe
+E:\GitHub\Learning-C-Sharp\C# Book №1 - (Васильев А.Н.)\Глава I0. Наследование\Homework 7\obj\Debug\Homework 7.pdb
