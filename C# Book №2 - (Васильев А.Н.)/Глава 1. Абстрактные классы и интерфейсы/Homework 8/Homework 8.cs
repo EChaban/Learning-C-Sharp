@@ -10,10 +10,42 @@ using System;
 
 namespace Homework_8
 {
+    interface IFirstText
+    {
+        string text { get; }
+    }
+
+    interface ISecondText
+    { 
+        string text { get; }
+    }
+
+    class MyClass : IFirstText, ISecondText
+    {
+        public string text { get; }
+
+        string IFirstText.text
+        {
+            get { return "IFirstText " + text; }
+        }
+        string ISecondText.text
+        {
+            get { return "ISecondText " + text; }
+        }
+
+        public MyClass() { text = "Hello"; }
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
+            MyClass obj = new MyClass();
+            IFirstText first = obj;
+            ISecondText second = obj;
+
+            Console.WriteLine(obj.text);
+            Console.WriteLine(first.text);
+            Console.WriteLine(second.text);
         }
     }
 }
