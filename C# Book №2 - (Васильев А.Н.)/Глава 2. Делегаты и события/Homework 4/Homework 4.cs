@@ -12,13 +12,27 @@ obj класса проиндексировать с неотрицательн�
 
 using System;
 
-namespace Homework_3
+namespace Homework_4
 {
-   
+    delegate int PowerDelegate(int n);
+
+    class PowerCalculator
+    {
+        public PowerDelegate this[int k]
+        {
+            get
+            {
+                return n => (int)Math.Pow(n, k);
+            }
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
+            PowerCalculator obj = new PowerCalculator();
+            Console.WriteLine(obj[3](2));
         }
     }
 }
