@@ -1,0 +1,7 @@
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 6. Многопоточное программирование\Homework 4\bin\Debug\Homework 1.exe.config
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 6. Многопоточное программирование\Homework 4\bin\Debug\Homework 1.exe
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 6. Многопоточное программирование\Homework 4\bin\Debug\Homework 1.pdb
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 6. Многопоточное программирование\Homework 4\obj\Debug\Homework 4.csproj.AssemblyReference.cache
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 6. Многопоточное программирование\Homework 4\obj\Debug\Homework 4.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 6. Многопоточное программирование\Homework 4\obj\Debug\Homework 1.exe
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 6. Многопоточное программирование\Homework 4\obj\Debug\Homework 1.pdb
