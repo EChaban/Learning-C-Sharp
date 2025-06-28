@@ -1,0 +1,10 @@
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\bin\Debug\Homework 6.exe.config
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\bin\Debug\Homework 6.exe
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\bin\Debug\Homework 6.pdb
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\obj\Debug\Homework 6.csproj.AssemblyReference.cache
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\obj\Debug\Homework_6.Properties.Resources.resources
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\obj\Debug\Homework 6.csproj.GenerateResource.cache
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\obj\Debug\Homework 6.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\obj\Debug\Homework 6.exe
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\obj\Debug\Homework 6.pdb
+C:\GitHub\Learning-C-Sharp\C# Book №2 - (Васильев А.Н.)\Глава 8. Приложения с графическим интерфейсом\Homework 6\obj\Debug\Homework 6.exe.config
